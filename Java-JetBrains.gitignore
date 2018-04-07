@@ -74,6 +74,12 @@ fabric.properties
 hs_err_pid*
 
 ############# Ignore Eclipsse IDE #############
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
 .metadata
 bin/
 tmp/
