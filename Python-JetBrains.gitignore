@@ -135,3 +135,7 @@ crashlytics-build.properties
 
 # Ignore backup files
 *~
+
+# Ignore MAC OS temp
+.DS_Store
+
