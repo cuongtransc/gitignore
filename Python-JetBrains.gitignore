@@ -83,6 +83,7 @@ celerybeat-schedule
 
 # Environments
 .env
+.env.python
 .venv
 env/
 venv/
@@ -139,3 +140,5 @@ crashlytics-build.properties
 # Ignore MAC OS temp
 .DS_Store
 
+# Ignore tmp/
+tmp/
