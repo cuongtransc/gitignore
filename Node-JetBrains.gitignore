@@ -70,6 +70,9 @@ fabric.properties
 # Ignore vscode settings
 .vscode/
 
+# Ignore MAC OS temp
+.DS_Store
+
 # Ignore tmp/
 tmp/
 
